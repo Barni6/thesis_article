@@ -1,5 +1,7 @@
 # Predicting NBA Draft Rankings with Machine Learning: Application of Pointwise Learning to Rank
 
+📄 [IEEE Paper - Predicting NBA Draft Rankings with Machine Learning](./IEEE_article_thesis_work.pdf)
+
 ## About  
 This repository is based on my research and thesis work, where I applied **Pointwise Learning to Rank** techniques to predict **NBA Draft rankings** using **machine learning**.  
 
@@ -10,3 +12,4 @@ I authored an **IEEE paper** based on this project, showcasing my contributions 
 - **Pointwise Learning to Rank Approach**  
 - **Data Processing & Feature Engineering**  
 - **Evaluation Metrics & Performance Analysis**  
+
